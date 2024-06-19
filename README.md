@@ -1,3 +1,3 @@
 # Tailwind-mini-project
 
-![Alt image]()
+![Alt image](https://github.com/nitinsingh33/Tailwind-mini-project/blob/main/pc%20view.png)
